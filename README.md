@@ -1,4 +1,4 @@
-Tesla Sales Dashboard (Power BI)
+#Tesla Sales Dashboard (Power BI)
 
 An interactive Power BI dashboard analyzing Tesla stock sales data with a focus on pricing, mileage, accident history, and financing trends across U.S. states.
 
