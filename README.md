@@ -72,3 +72,5 @@ Clone or download this repository.
 Open the .pbix file in Power BI Desktop.
 
 Interact with the slicers and visuals to explore insights.
+
+![Dashboard Screenshot](https://github.com/FIKRI-Mehdi/tesla-sales-analysis/blob/main/Dashboard%20Tesla.png)
